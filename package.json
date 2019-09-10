@@ -4,16 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "live-server",
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "build": "live-server"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "live-server": "^1.2.1"
-  },
   "devDependencies": {
     "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
   }
 }
